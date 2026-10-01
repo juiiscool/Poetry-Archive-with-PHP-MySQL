@@ -1,4 +1,4 @@
-ARKIVI I POEZISE - PHP + MySQL
+#Poetry Archive with PHP + MySQL 
 
 1. Kopjo folderin poetry ne C:\xampp\htdocs\
 2. Hap XAMPP dhe ndiz Apache + MySQL.
